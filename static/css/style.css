@@ -1,0 +1,11 @@
+ul{
+    font-size: 20px;
+  }
+  li{
+    background-color: white;
+    
+    border-radius: 12px;
+    padding: 12px;
+    width: 80px;
+    list-style: none;
+  }

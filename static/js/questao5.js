@@ -2,5 +2,5 @@ var galeria = ["begonia", "bromelia", "girassol", "lirio", "margarida", "narciso
 
 
   for (i=0;i<galeria.length; i++){
-    document.getElementById("imgs").innerHTML+="<img src='"+galeria[i]+".jpg' alt=''>"
+    document.getElementById("imgs").innerHTML+="<img src='static/imgs/"+galeria[i]+".jpg' alt=''>"
   }
